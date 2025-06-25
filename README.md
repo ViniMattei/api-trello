@@ -130,7 +130,7 @@ mvn spring-boot:run
 ```
 
 ### Acesse:
-- **API REST**: http://localhost:8080
+- **API REST**: http://localhost:8081
 
 ---
 
@@ -165,26 +165,6 @@ POST /tasks
 }
 ``
 
----
-
-## 🧑‍🏫 Avaliação
-
-| Critério | Pontos |
-|---------|--------|
-| Funcionalidade dos Endpoints | 3 pts |
-| Modelagem correta das entidades e relacionamentos | 2 pts |
-| Uso correto do Spring Boot e suas anotações | 1 pts |
-| Validações e regras de negócio | 2 pts |
-| Estrutura e organização do projeto | 1 pts |
-| Testes automatizados | 1 pts |
-
----
-
-## 📅 Prazo de Entrega
-
-**27/06/2025**
-
----
 
 ## 💡 Dica
 
