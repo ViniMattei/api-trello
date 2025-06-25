@@ -121,8 +121,8 @@ O projeto deve conter:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/ViniciusDuranteBagio/ApiTrello
-cd ApiTrello
+git clone https://github.com/ViniMattei/api-trello.git
+cd api-trello
 
 # 2. Execute o projeto
 mvn clean install
